@@ -1,0 +1,214 @@
+
+<!DOCTYPE html>
+
+<html>
+   
+ <head>
+       
+ <title>Project: Recipe book</title>
+        
+<meta charset="utf-8">
+       
+ <style>
+        
+#recipe-book {
+            
+color: rgb(247, 10, 77);
+        }
+        
+        
+body {
+            
+background-color: rgb(250, 238, 5);
+        }
+        
+#recipe1 {
+            color: rgb(19, 194, 45);
+        }
+        
+#recipe2 {
+            color: rgb(19, 194, 45);
+        }
+        
+</style>
+    
+</head>
+    
+<body>
+       
+        
+<h1 id="recipe-book"><u>Sb's Recipe Book</u></h1>
+        
+        
+<h2>Contents:</h2>
+        
+       
+ <ol>
+            
+<li><a href="#recipe1">Recipe #1</a></li>
+           
+ <li><a href="#recipe2">Recipe #2</a></li>
+        </ol>
+        
+        
+<h2 id="recipe1"><u>Biriyani</u></h2>
+        
+        
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hyderabadi_Chicken_Biryani.jpg/250px-Hyderabadi_Chicken_Biryani.jpg" alt="Tasty Biriyani" width="144">
+        
+        
+<table>
+            
+<thead>
+                
+<tr>
+                    
+<th>Ingredients</th>
+                    
+<th>Quantity</th>
+               
+</tr>
+            
+</thead>
+            
+<tbody>
+            
+<td>Rice</td>
+            
+<td>500 gm</td>
+            
+</tbody>
+            
+<tbody>
+            
+<td>Indian Spices</td>
+            
+<td>2 Tbsp</td>
+            
+</tbody>
+            
+<tbody>
+            
+<td>Vegetables</td>
+            
+<td>100gm</td>
+            
+</tbody>
+            
+<tbody>
+            
+<td>Meat</td>
+            
+<td>200 gm</td>
+            
+</tbody>
+        
+</table>
+        
+        
+<h3>Procedure</h3>
+        
+<ul>
+        
+<li>Layer the cooked rice evenly, add fried onions, mint and coriander leaves over the chicken.</li> <li>Sprinkle ? tsp to ? tsp. biryani masala powder. </li><li>Repeat steps of layering rice, coriander mint leaves and then fried onions. </li>Cover the rim of the casserole with foil to trap the dum or <strong>use</strong> a cloth.
+        
+</ul>
+        
+        
+<a href="https://www.youtube.com/watch?v=zJXWKDQq5so"><strong>Check the video</strong></a>
+    
+    
+<h2 id="recipe2"><u>Paneer Biriryani</u></h2>
+    
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Panir_Tikka_Indian_cheese_grilled.jpg/250px-Panir_Tikka_Indian_cheese_grilled.jpg" alt="Paneer Biriyani" width="144">
+    
+<table>
+            
+<thead>
+               
+ <tr>
+                    
+<th>Ingredients</th>
+                    
+<th>Quantity</th>
+                
+</tr>
+           
+ </thead>
+            
+<tbody>
+                
+<td>Boiled Rice</td>
+                
+<td>500gm</td>
+           
+ </tbody>
+            
+<tbody>
+                
+<td><strong>Paneer</strong></td>
+                
+<td>100gm</td>
+           
+ </tbody>
+           
+ <tbody>
+                
+<td>Indian Spices</td>
+                
+<td>2 Tbsp</td>
+           
+ </tbody>
+            
+<tbody>
+               
+ <td>Vegetables</td>
+                
+<td>100gm</td>
+            
+</tbody>
+            
+<tbody>
+               
+ <td>Boiled Rice</td>
+               
+ <td>500gm</td>
+           
+ </tbody>
+            
+<tbody>
+                
+<td>Meat</td>
+                
+<td>200gm</td>
+            
+</tbody>
+    
+</table>        
+    
+    
+<h3>Procedure</h3>
+    
+<ul>
+    <li>Add oil to a heavy bottom pan, fry onions till golden brown. Set these aside.</li><li> Fry capsicums till they turn slightly soft.</li>
+<li>Marinate paneer with the marination ingredients and set aside.</li>
+<li>Add 1 tsp oil to water and bring it to a boil, add the rice and cook till al dente. Drain off the rice and set aside.</li>
+</ul>
+
+<a href="https://www.youtube.com/watch?v=ZoOM7ccnd-8"><strong>Check the video</strong></a>
+
+
+
+<h1><u>Thank You!</u></h1>
+    
+<form action="mailto:you@yourdomain.com
+">
+Name: <input name="Name" value=""
+size="10"><br>
+Email: <input name="Email" value=""
+size="10"><br>
+<center><input type="submit"></center>
+</form>
+</body>
+
+</html>
